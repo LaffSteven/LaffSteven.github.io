@@ -1,11 +1,11 @@
 # Site settings
 author: Steven Laff
-title: 
+title: Stevenable
 header-img: img/home-bg.png
 email: steve.laff@gmail.com
 copyright_name: Steven Laff
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Confessions of a Programming Student
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LaffSteven
