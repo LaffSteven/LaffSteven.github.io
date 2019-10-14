@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Hunting forJob and Finding Them Myself!"
-date:       2019-10-14 02:41:36 +0000
+title:      "Hunting for Jobs and Finding Them Myself!"
+date:       2019-10-13 22:41:37 -0400
 permalink:  hunting_forjob_and_finding_them_myself
 ---
 
